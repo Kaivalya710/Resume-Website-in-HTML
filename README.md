@@ -101,7 +101,7 @@ Edit the `index.html` file to update:
 
 ## Live Demo
 
-🚀 **[View Live Demo](https://resume-website-in-html-iota.vercel.app/)
+🚀 [View Live Demo](https://resume-website-in-html-iota.vercel.app/)
 
 ## Project Structure
 
