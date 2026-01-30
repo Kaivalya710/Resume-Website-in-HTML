@@ -108,8 +108,10 @@ Edit the `index.html` file to update:
 ```
 resume-website/
 │
-├── index.html          # Main resume page
 ├── README.md           # Project documentation
+├── index.html          # Main resume page
+├── terminal img.png
+
 ```
 
 ## Browser Compatibility
